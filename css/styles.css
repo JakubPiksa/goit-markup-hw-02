@@ -4,3 +4,6 @@ body {
     color: black;
 
 }
+.nav-list-item:hover{
+color: red
+}
