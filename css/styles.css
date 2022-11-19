@@ -4,6 +4,20 @@ body {
     color: black;
 
 }
-.nav-list-item:hover{
-color: red
+.nav-list-item {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,17;
+    color: #212121;;
+    text-decoration: none;
 }
+.nav-list-item:hover {
+color: teal
+}
+ .logo {
+    font-family: "Raleway", sans-serif ;
+    font-size:  26px; ;
+    font-weight: 1,17;
+    font-weight: 700;
+    text-decoration: none;
+ }
